@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "lojavirtual2"
-  }
+    "default": "lojavirtual-26a0d"
+  },
+  "targets": {},
+  "etags": {}
 }
